@@ -1,6 +1,7 @@
 # /LogicMojo-AI-ML-April26-VishnuDuggisetty
 
 # 26 April 2026
+
 ### 1. Palindrome Check
 s = input()
 print("Palindrome" if s == s[::-1] else "Not Palindrome")
